@@ -1,4 +1,4 @@
-M     64    N     64      dt      5E-3	
+M         64    N     64      dt      5E-3	
 Tfinal    100   eta   1.D0      lambda      0.D0
 sizenu1   1   nu1_1   0.066D0   stepnu1     -1.D-3
 sizenu2   1   nu2_1   0.066D0   stepnu2     -0.1D0
